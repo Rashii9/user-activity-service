@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Test & coverage files
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Database
+activity.db
+
+# OS files
+.DS_Store
