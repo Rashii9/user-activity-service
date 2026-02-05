@@ -1,4 +1,4 @@
-# User Activity Service – Scalable Python Backend with Testing & Telemetry
+# User Activity Service – Scalable Python Backend with Monitoring
 
 ## Overview
 User Activity Service is a scalable backend API built using **Python (FastAPI)** that captures and stores user activity events.  
